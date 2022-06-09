@@ -1,5 +1,5 @@
 {
-  "date": "2022-06-09T19:12:27.098Z",
+  "date": "2022-06-09T20:49:38.073Z",
   "preset": "cloudflare",
   "commands": {
     "preview": "npx miniflare ./server/index.mjs --site ./public",
