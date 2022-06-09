@@ -3,7 +3,7 @@ type = "javascript"
 account_id = "a8504cbbaac4bbc139151414bd1ee748"
 workers_dev = true
 route = ""
-zone_id = ""
+zone_id = "c3350b444dabecb4273f835d0b214914"
 compatibility_date = "2022-04-07"
 
 [site]
