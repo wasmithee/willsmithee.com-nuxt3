@@ -1,5 +1,7 @@
 name = "playground"
-type = "javascript"
+# main = "./some-entrypoint"
+
+type = "typescript"
 account_id = "a8504cbbaac4bbc139151414bd1ee748"
 workers_dev = true
 route = ""
