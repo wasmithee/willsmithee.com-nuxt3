@@ -1,0 +1,8 @@
+{
+  "date": "2022-06-09T18:31:56.259Z",
+  "preset": "cloudflare",
+  "commands": {
+    "preview": "npx miniflare ./server/index.mjs --site ./public",
+    "deploy": "cd ./server && npx wrangler publish"
+  }
+}
